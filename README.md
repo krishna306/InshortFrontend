@@ -48,5 +48,25 @@ https://github.com/krishna306/InshortBackend
 
 
 
+## Run app on your Android devices for Windows
+#### 1. Install Node.js on system
+#### 2. Install expo-cli global on system
+```
+npm install expo-cli --global
+```
+#### 3. Clone Github Repository
+```
+git clone https://github.com/krishna306/InshortFrontend.git
+```
+#### 4. Go to Project Directory and run
+```
+npm install
+```
+#### 5. After installation run
+```
+npm start
+```
+#### 6. Install expo go on your android device
+#### 7. Scan the QR code from console and app will start on andoid device
 ## Screen Recording of Code Base and Features
 [![Watch the video](https://i9.ytimg.com/vi/9vRqEWtOKvA/mq2.jpg?sqp=CITDrZsG&rs=AOn4CLDuM10lv-FlVi_I6AVaRq0Nh-46zA)](https://youtu.be/9vRqEWtOKvA)
