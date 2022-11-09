@@ -69,4 +69,5 @@ npm start
 #### 6. Install expo go on your android device
 #### 7. Scan the QR code from console and app will start on andoid device
 ## Screen Recording of Code Base and Features
-[![Watch the video](https://i9.ytimg.com/vi/9vRqEWtOKvA/mq2.jpg?sqp=CITDrZsG&rs=AOn4CLDuM10lv-FlVi_I6AVaRq0Nh-46zA)](https://youtu.be/9vRqEWtOKvA)
+[![Watch the video](https://user-images.githubusercontent.com/66921841/200882727-9213e713-3e5f-4118-b4bf-da6490092acf.jpg)](https://youtu.be/9vRqEWtOKvA)
+
