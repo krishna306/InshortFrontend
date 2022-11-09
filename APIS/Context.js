@@ -1,7 +1,5 @@
 import axios from "axios";
 import React, { createContext, useEffect, useState } from "react";
-// import { getNewsAPI, getSourceAPI } from "./api";
-
 export const NewsContext = createContext();
 
 export default Context = ({ children }) => {

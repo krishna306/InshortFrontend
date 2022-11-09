@@ -8,9 +8,7 @@ import TopNavigation from "./TopNavigation";
 
 export default function Tabs() {
   const layout = useWindowDimensions();
-
   const { index, setIndex } = useContext(NewsContext);
-
   const [routes] = useState([
     { key: "first", title: "Discover" },
     { key: "second", title: "News" },

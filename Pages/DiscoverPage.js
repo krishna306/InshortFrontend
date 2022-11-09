@@ -1,10 +1,8 @@
 import React, { useContext } from "react";
 import {
   Dimensions,
-  Image,
   StyleSheet,
   Text,
-  TextInput,
   TouchableOpacity,
   View,
 } from "react-native";
@@ -48,16 +46,6 @@ const DiscoverPage = () => {
         inactiveSlideScale={1}
         inactiveSlideOpacity={1}
       />
-      {/* {categories.map((item, idx) => {
-        return (
-          <TouchableOpacity
-            onPress={() => setCategory(item.name)}
-            style={styles.category}
-          >
-            <Text style={{ ...styles.name, color: "white" }}>{item.name}</Text>
-          </TouchableOpacity>
-        );
-      })} */}
     </View>
   );
 };
