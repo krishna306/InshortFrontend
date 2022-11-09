@@ -49,4 +49,4 @@ https://github.com/krishna306/InshortBackend
 
 
 ## Screen Recording of Code Base and Features
-[![Watch the video](https://youtu.be/9vRqEWtOKvA)](https://youtu.be/9vRqEWtOKvA)
+[![Watch the video](https://i9.ytimg.com/vi/9vRqEWtOKvA/mq2.jpg?sqp=CITDrZsG&rs=AOn4CLDuM10lv-FlVi_I6AVaRq0Nh-46zA)](https://youtu.be/9vRqEWtOKvA)
